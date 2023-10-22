@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Ben; A programmer with a passion for learning and sharing knowledge. A QA Specialist from 9-5, a full-stack web developer with expertise in JavaScript, Node/Express, Java, Spring, JDBC, and Google Cloud Platform, with a passion for building innovative and user-friendly web applications from 5-9.
+
+I recently made a few YouTube videos about simple linear regression and multi-class classification. I love sharing my knowledge with others, and I'm always happy to help out a fellow programmer.
+
+If you're looking for a programmer who loves what they do and is committed to continuous learning, then certainly feel free to reach out. I'm always looking for new opportunities to collaborate with talented people and build innovative products.
+
+For a further glimpse of me, here is my YouTube channel, [Benji](https://www.youtube.com/@hactuallybenjics)
 <!--
 **HactuallyBenji/HactuallyBenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
