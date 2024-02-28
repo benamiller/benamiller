@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Ahoy hoy
+### Ahoy hoy
 
 I am Ben
 
