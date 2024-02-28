@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+Ahoy hoy
+
 I am Ben
 
-
+I like skiing, running (more wonky and infrequent jogging really), and writing code that looks better than my running does. Neoviming since '01, and have a very prime-inspired config if you fancy having a look [here](https://github.com/HactuallyBenji/neovimrc).
 
 ![gopher-shaking](https://github.com/HactuallyBenji/HactuallyBenji/assets/38388426/c795ad9c-7ef2-4e3a-8884-e3cd163a6c0a)
 
