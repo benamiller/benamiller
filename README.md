@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 I am Ben
+
+
+
+![gopher-shaking](https://github.com/HactuallyBenji/HactuallyBenji/assets/38388426/c795ad9c-7ef2-4e3a-8884-e3cd163a6c0a)
+
+
 <!--
 **HactuallyBenji/HactuallyBenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
