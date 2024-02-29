@@ -6,7 +6,7 @@ I like skiing, running (more wonky and infrequent jogging really), and writing c
 
 <img src="https://github.com/HactuallyBenji/HactuallyBenji/assets/38388426/c795ad9c-7ef2-4e3a-8884-e3cd163a6c0a" alt="A Golang gopher, dancing" width="100"/>
 
-I do quite like Go, not just for the cute gopher, and think I might start falling more rapidly into the inescapable land of OCaml. Ubuntu mostly, but sometimes macOS with iTerm2, and even Windows to satiate my Baldur's Gate vice.
+I do quite like Go, not just for the cute gopher, and think I might start falling more rapidly into the inescapable land of OCaml. Pop!_OS mostly, but sometimes macOS with iTerm2, and even Windows to satiate my Baldur's Gate vice.
 
 At work I'm all Java, Spring, and  Kubernetes on Azure.
 
