@@ -6,7 +6,6 @@ I like skiing, running (more wonky and infrequent jogging really), and writing c
 
 <img src="https://github.com/benamiller/benamiller/assets/38388426/f46bc5db-41f8-42fa-bb1b-05a663827569" alt="Deeplearning.ai Neural Network Example" width="200"/>
 <br>
-<br>
 
 I like deep neural nets, and cannot stop thinking about digitized intelligence and numpy.
 
