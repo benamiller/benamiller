@@ -4,7 +4,7 @@ I am Ben
 
 I like skiing, running (more wonky and infrequent jogging really), and writing code that looks better than my running does. Neoviming since '01, with a very prime-inspired config that can be found [here](https://github.com/HactuallyBenji/neovimrc).
 
-<img src="https://github.com/benamiller/benamiller/assets/38388426/4080a2be-024b-4401-84be-eb40115f3829"/>
+<img src="https://github.com/benamiller/benamiller/assets/38388426/f46bc5db-41f8-42fa-bb1b-05a663827569" alt="Deeplearning.ai Neural Network Example" width="100"/>
 
 I like deep neural nets, and cannot stop thinking about digitized intelligence and numpy.
 
