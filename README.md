@@ -27,7 +27,7 @@ At work I'm all Java, Spring, and Kubernetes on Azure.
 ## Courses in the Specialization
 
 | Course Title                                | Date Completed | Grade | Certificate Link                                           |
-|----------------------------------------------|----------------|------------------------------------------------------------|
+|----------------------------------------------|----------------|-----|------------------------------------------------------------|
 | Supervised Machine Learning: Regression and Classification | Jan. 2024 | 100% | [View Certificate](https://coursera.org/share/3bc2aaad3056b7329ad4b5e43deb4ef7) |
 | Advanced Learning Algorithms | Jan. 2024 | 100% | [View Certificate](https://coursera.org/share/0acae7e799d391768e6ccfd2dfc16ce2)
 | Unsupervised Learning, Recommenders, Reinforcement Learning | Feb. 2024 | 100% | [View Certificate](https://coursera.org/share/215ba48aaf14087127923e6bc831fbcf) |
@@ -39,6 +39,7 @@ At work I'm all Java, Spring, and Kubernetes on Azure.
 
 ## Courses in the Specialization
 | Course Title | Date Completed | Grade | Certificate Link |
+|----------------------------------------------|----------------|-----|------------------------------------------------------------|
 | Neural Networks and Deep Learning            | May 2024        | 100% | [View Certificate](https://coursera.org/share/95f676fe448295ba6778b5d221d975ed)                                      |
 | Improving Deep Neural Networks               | May 2024        | 100% | [View Certificate](https://coursera.org/share/8e50b49ae2a9e5c245c758747572d8ad)                                      |
 | Structuring Machine Learning Projects        | June 2024        | 100% | [View Certificate](https://coursera.org/share/25a70a06fe5f951fd944a7e21b345689)                                      |
