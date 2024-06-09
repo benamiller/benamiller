@@ -17,6 +17,21 @@ At work I'm all Java, Spring, and Kubernetes on Azure.
 
 <img src="https://github.com/HactuallyBenji/HactuallyBenji/assets/38388426/a89e6c92-074b-4c88-a5b5-856a6f62e485" alt="Kubernetes logo" width="100"/>
 
+# Machine Learning Certifications (Coursera)
+
+| Course Title                                 | Date Completed | Certificate Link                                           |
+|----------------------------------------------|----------------|------------------------------------------------------------|
+| Supervised Machine Learning: Regression and Classification | Jan. 2024 | [View Certificate](https://coursera.org/share/3bc2aaad3056b7329ad4b5e43deb4ef7) |
+| Advanced Learning Algorithms | Jan. 2024 | [View Certificate](https://coursera.org/share/0acae7e799d391768e6ccfd2dfc16ce2)
+| Unsupervised Learning, Recommenders, Reinforcement Learning | Feb. 2024 | [View Certificate](https://coursera.org/share/215ba48aaf14087127923e6bc831fbcf)
+| Machine Learning Specialization                            | Feb. 2024        | [View Certificate](https://coursera.org/share/c8ccd34bd3358236ad3f17c5907bdf17)                                  |
+| Neural Networks and Deep Learning            | MM/YYYY        | [View Certificate](#)                                      |
+| Improving Deep Neural Networks               | MM/YYYY        | [View Certificate](#)                                      |
+| Structuring Machine Learning Projects        | MM/YYYY        | [View Certificate](#)                                      |
+| Convolutional Neural Networks                | MM/YYYY        | [View Certificate](#)                                      |
+| Sequence Models                              | MM/YYYY        | [View Certificate](#)                                      |
+
+
 <!--
 **HactuallyBenji/HactuallyBenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
