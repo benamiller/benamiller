@@ -13,7 +13,7 @@ I like deep neural nets, thinking about digitized intelligence, and numpy.
 
 I do quite like Go, not just for the cute gopher, and think I might start falling more rapidly into the inescapable land of OCaml. Pop!_OS mostly, but sometimes macOS with iTerm2, and even Windows to satiate my Baldur's Gate vice.
 
-At work I'm all Java, Spring, and Kubernetes on Azure.
+At work I'm all Java, Terraform, and Kubernetes on Azure.
 
 <img src="https://github.com/HactuallyBenji/HactuallyBenji/assets/38388426/a89e6c92-074b-4c88-a5b5-856a6f62e485" alt="Kubernetes logo" width="100"/>
 
