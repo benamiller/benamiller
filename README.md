@@ -43,7 +43,7 @@ At work I'm all Java, Terraform, and Kubernetes on Azure.
 | Neural Networks and Deep Learning            | May 2024        | 100% | [View Certificate](https://coursera.org/share/95f676fe448295ba6778b5d221d975ed)                                      |
 | Improving Deep Neural Networks               | May 2024        | 100% | [View Certificate](https://coursera.org/share/8e50b49ae2a9e5c245c758747572d8ad)                                      |
 | Structuring Machine Learning Projects        | June 2024        | 100% | [View Certificate](https://coursera.org/share/25a70a06fe5f951fd944a7e21b345689)                                      |
-| Convolutional Neural Networks                | MM/YYYY        | [View Certificate](#)                                      |
+| Convolutional Neural Networks                | August 2024        | 100% | [View Certificate](https://coursera.org/share/82bfe3fce8d0622a36f0505dd410114b)                                      |
 | Sequence Models                              | MM/YYYY        | [View Certificate](#)                                      |
 
 
