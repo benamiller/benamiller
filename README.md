@@ -19,7 +19,7 @@ At work I'm all Java, Spring, and Kubernetes on Azure.
 
 # Machine Learning Certifications (Coursera)
 
-## Machine Learning Specialization
+## Machine Learning Specialization (Andrew Ng)
 
 - **Completion Date**: Feb. 2024
 - **Certificate**: [View Specialization Certificate](https://coursera.org/share/c8ccd34bd3358236ad3f17c5907bdf17)
@@ -32,7 +32,7 @@ At work I'm all Java, Spring, and Kubernetes on Azure.
 | Advanced Learning Algorithms | Jan. 2024 | 100% | [View Certificate](https://coursera.org/share/0acae7e799d391768e6ccfd2dfc16ce2)
 | Unsupervised Learning, Recommenders, Reinforcement Learning | Feb. 2024 | 100% | [View Certificate](https://coursera.org/share/215ba48aaf14087127923e6bc831fbcf) |
 
-## Deep Learning Specialization
+## Deep Learning Specialization (Andrew Ng)
 
 - **Completion Date**: June. 2024
 - **Certificate**: [View Specialization Certificate](https://coursera.org/share/c8ccd34bd3358236ad3f17c5907bdf17)
