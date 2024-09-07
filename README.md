@@ -21,7 +21,7 @@ At work I'm all Java, Terraform, and Kubernetes on Azure.
 
 ## Machine Learning Specialization (Andrew Ng)
 
-- **Completion Date**: Feb. 2024
+- **Completion Date**: February 2024
 - **Certificate**: [View Specialization Certificate](https://coursera.org/share/c8ccd34bd3358236ad3f17c5907bdf17)
 
 ## Courses in the Specialization
@@ -34,7 +34,7 @@ At work I'm all Java, Terraform, and Kubernetes on Azure.
 
 ## Deep Learning Specialization (Andrew Ng)
 
-- **Completion Date**: June. 2024
+- **Completion Date**: September, 2024
 - **Certificate**: [View Specialization Certificate](https://coursera.org/share/c8ccd34bd3358236ad3f17c5907bdf17)
 
 ## Courses in the Specialization
