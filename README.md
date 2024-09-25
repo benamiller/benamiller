@@ -28,9 +28,9 @@ At work I'm all Java, Terraform, and Kubernetes on Azure.
 
 | Course Title                                | Date Completed | Grade | Certificate Link                                           |
 |----------------------------------------------|----------------|-----|------------------------------------------------------------|
-| Supervised Machine Learning: Regression and Classification | Jan. 2024 | 100% | [View Certificate](https://coursera.org/share/3bc2aaad3056b7329ad4b5e43deb4ef7) |
+| Supervised Machine Learning: Regression and Classification | January, 2024 | 100% | [View Certificate](https://coursera.org/share/3bc2aaad3056b7329ad4b5e43deb4ef7) |
 | Advanced Learning Algorithms | Jan. 2024 | 100% | [View Certificate](https://coursera.org/share/0acae7e799d391768e6ccfd2dfc16ce2)
-| Unsupervised Learning, Recommenders, Reinforcement Learning | Feb. 2024 | 100% | [View Certificate](https://coursera.org/share/215ba48aaf14087127923e6bc831fbcf) |
+| Unsupervised Learning, Recommenders, Reinforcement Learning | February, 2024 | 100% | [View Certificate](https://coursera.org/share/215ba48aaf14087127923e6bc831fbcf) |
 
 ## Deep Learning Specialization (Andrew Ng)
 
@@ -40,11 +40,11 @@ At work I'm all Java, Terraform, and Kubernetes on Azure.
 ## Courses in the Specialization
 | Course Title | Date Completed | Grade | Certificate Link |
 |----------------------------------------------|----------------|-----|------------------------------------------------------------|
-| Neural Networks and Deep Learning            | May 2024        | 100% | [View Certificate](https://coursera.org/share/95f676fe448295ba6778b5d221d975ed)                                      |
-| Improving Deep Neural Networks               | May 2024        | 100% | [View Certificate](https://coursera.org/share/8e50b49ae2a9e5c245c758747572d8ad)                                      |
-| Structuring Machine Learning Projects        | June 2024        | 100% | [View Certificate](https://coursera.org/share/25a70a06fe5f951fd944a7e21b345689)                                      |
-| Convolutional Neural Networks                | August 2024        | 100% | [View Certificate](https://coursera.org/share/82bfe3fce8d0622a36f0505dd410114b)                                      |
-| Sequence Models                              | September 2024 | 100% | [View Certificate](https://coursera.org/share/f7be6d610341404e52e27494e4ef75b6)                                      |
+| Neural Networks and Deep Learning            | May, 2024        | 100% | [View Certificate](https://coursera.org/share/95f676fe448295ba6778b5d221d975ed)                                      |
+| Improving Deep Neural Networks               | May, 2024        | 100% | [View Certificate](https://coursera.org/share/8e50b49ae2a9e5c245c758747572d8ad)                                      |
+| Structuring Machine Learning Projects        | June, 2024        | 100% | [View Certificate](https://coursera.org/share/25a70a06fe5f951fd944a7e21b345689)                                      |
+| Convolutional Neural Networks                | August, 2024        | 100% | [View Certificate](https://coursera.org/share/82bfe3fce8d0622a36f0505dd410114b)                                      |
+| Sequence Models                              | September, 2024 | 100% | [View Certificate](https://coursera.org/share/f7be6d610341404e52e27494e4ef75b6)                                      |
 
 
 <!--
