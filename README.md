@@ -35,7 +35,7 @@ At work I'm all Java, Terraform, and Kubernetes on Azure.
 ## Deep Learning Specialization (Andrew Ng)
 
 - **Completion Date**: September, 2024
-- **Certificate**: [View Specialization Certificate](https://coursera.org/share/c8ccd34bd3358236ad3f17c5907bdf17)
+- **Certificate**: [View Specialization Certificate](https://coursera.org/share/f5fa4c831a360de7841411165ebabcc4)
 
 ## Courses in the Specialization
 | Course Title | Date Completed | Grade | Certificate Link |
@@ -44,7 +44,7 @@ At work I'm all Java, Terraform, and Kubernetes on Azure.
 | Improving Deep Neural Networks               | May 2024        | 100% | [View Certificate](https://coursera.org/share/8e50b49ae2a9e5c245c758747572d8ad)                                      |
 | Structuring Machine Learning Projects        | June 2024        | 100% | [View Certificate](https://coursera.org/share/25a70a06fe5f951fd944a7e21b345689)                                      |
 | Convolutional Neural Networks                | August 2024        | 100% | [View Certificate](https://coursera.org/share/82bfe3fce8d0622a36f0505dd410114b)                                      |
-| Sequence Models                              | MM/YYYY        | [View Certificate](#)                                      |
+| Sequence Models                              | September 2024 | 100% | [View Certificate](https://coursera.org/share/f7be6d610341404e52e27494e4ef75b6)                                      |
 
 
 <!--
