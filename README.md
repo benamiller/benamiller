@@ -29,7 +29,7 @@ At work I'm all Java, Terraform, and Kubernetes on Azure.
 | Course Title                                | Date Completed | Grade | Certificate Link                                           |
 |----------------------------------------------|----------------|-----|------------------------------------------------------------|
 | Supervised Machine Learning: Regression and Classification | January, 2024 | 100% | [View Certificate](https://coursera.org/share/3bc2aaad3056b7329ad4b5e43deb4ef7) |
-| Advanced Learning Algorithms | Jan. 2024 | 100% | [View Certificate](https://coursera.org/share/0acae7e799d391768e6ccfd2dfc16ce2)
+| Advanced Learning Algorithms | January, 2024 | 100% | [View Certificate](https://coursera.org/share/0acae7e799d391768e6ccfd2dfc16ce2)
 | Unsupervised Learning, Recommenders, Reinforcement Learning | February, 2024 | 100% | [View Certificate](https://coursera.org/share/215ba48aaf14087127923e6bc831fbcf) |
 
 ## Deep Learning Specialization (Andrew Ng)
