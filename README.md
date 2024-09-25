@@ -19,19 +19,6 @@ At work I'm all Java, Terraform, and Kubernetes on Azure.
 
 # Machine Learning Certifications (Coursera)
 
-## Machine Learning Specialization (Andrew Ng)
-
-- **Completion Date**: February, 2024
-- **Certificate**: [View Specialization Certificate](https://coursera.org/share/c8ccd34bd3358236ad3f17c5907bdf17)
-
-## Courses in the Specialization
-
-| Course Title                                | Date Completed | Grade | Certificate Link                                           |
-|----------------------------------------------|----------------|-----|------------------------------------------------------------|
-| Supervised Machine Learning: Regression and Classification | January, 2024 | 100% | [View Certificate](https://coursera.org/share/3bc2aaad3056b7329ad4b5e43deb4ef7) |
-| Advanced Learning Algorithms | January, 2024 | 100% | [View Certificate](https://coursera.org/share/0acae7e799d391768e6ccfd2dfc16ce2)
-| Unsupervised Learning, Recommenders, Reinforcement Learning | February, 2024 | 100% | [View Certificate](https://coursera.org/share/215ba48aaf14087127923e6bc831fbcf) |
-
 ## Deep Learning Specialization (Andrew Ng)
 
 - **Completion Date**: September, 2024
@@ -46,6 +33,18 @@ At work I'm all Java, Terraform, and Kubernetes on Azure.
 | Convolutional Neural Networks                | August, 2024        | 100% | [View Certificate](https://coursera.org/share/82bfe3fce8d0622a36f0505dd410114b)                                      |
 | Sequence Models                              | September, 2024 | 100% | [View Certificate](https://coursera.org/share/f7be6d610341404e52e27494e4ef75b6)                                      |
 
+## Machine Learning Specialization (Andrew Ng)
+
+- **Completion Date**: February, 2024
+- **Certificate**: [View Specialization Certificate](https://coursera.org/share/c8ccd34bd3358236ad3f17c5907bdf17)
+
+## Courses in the Specialization
+
+| Course Title                                | Date Completed | Grade | Certificate Link                                           |
+|----------------------------------------------|----------------|-----|------------------------------------------------------------|
+| Supervised Machine Learning: Regression and Classification | January, 2024 | 100% | [View Certificate](https://coursera.org/share/3bc2aaad3056b7329ad4b5e43deb4ef7) |
+| Advanced Learning Algorithms | January, 2024 | 100% | [View Certificate](https://coursera.org/share/0acae7e799d391768e6ccfd2dfc16ce2)
+| Unsupervised Learning, Recommenders, Reinforcement Learning | February, 2024 | 100% | [View Certificate](https://coursera.org/share/215ba48aaf14087127923e6bc831fbcf) |
 
 <!--
 **HactuallyBenji/HactuallyBenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
