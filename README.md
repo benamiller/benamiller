@@ -4,7 +4,7 @@ I like skiing, running (more wonky and infrequent jogging really), and writing c
 
 Academics:
 - Bachelor of Science in Computer Science from University of Victoria
-- Master of Science in Computer Science from University of Illinois Urbana-Champaign 
+- Master of Science in Computer Science from University of Illinois Urbana-Champaign (currently pursuing)
 
 <img src="https://github.com/benamiller/benamiller/assets/38388426/f46bc5db-41f8-42fa-bb1b-05a663827569" alt="Deeplearning.ai Neural Network Example" width="200"/>
 <br>
